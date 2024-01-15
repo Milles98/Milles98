@@ -1,6 +1,6 @@
 ### Hi there, my name is Mille Elfver and i am studying .NET development at KYH Yrkeshögskola! 👋
 
-🌱 I’m currently learning HTML5, CSS3 och Javascript.
+🌱 I’m currently learning about .NET development.
 📫 How to reach me: mille.elfver98@gmail.com
 ⚡ Fun fact: I enjoy a cup of T!
 <!--
