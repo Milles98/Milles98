@@ -2,7 +2,6 @@
 
 🌱 I’m currently learning about .NET development.
 📫 How to reach me: mille.elfver98@gmail.com
-⚡ Fun fact: I enjoy a cup of T!
 <!--
 **Milles98/Milles98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
