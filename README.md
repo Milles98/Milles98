@@ -1,6 +1,5 @@
-### Hi there, my name is Mille Elfver and i am studying .NET development at KYH Yrkeshögskola! 👋
+### Hi there, my name is Mille Elfver and I am studying .NET development at KYH Yrkeshögskola! 👋
 
-🌱 I’m currently learning about .NET development.
 📫 How to reach me: mille.elfver98@gmail.com
 <!--
 **Milles98/Milles98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
