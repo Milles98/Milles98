@@ -1,4 +1,4 @@
-### Hi there, my name is Mille Elfver and I am studying .NET development at KYH Yrkeshögskola! 👋
+### Hi, my name is Mille Elfver and I'm studying to become a .NET developer at KYH Stockholm! 👋
 
 📫 How to reach me: mille.elfver98@gmail.com
 <!--
