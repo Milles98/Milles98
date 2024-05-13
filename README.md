@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Mille98&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
 ### Hi, my name is Mille Elfver and I'm studying to become a .NET developer 👋
 
