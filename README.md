@@ -2,6 +2,8 @@
 
 ### Hi, my name is Mille Elfver and I'm studying to become a .NET developer 👋
 
+## Keep a lookout, more projects coming continuously!
+
 📫 How to reach me: mille.elfver98@gmail.com
 <!--
 **Milles98/Milles98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
