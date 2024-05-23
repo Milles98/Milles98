@@ -8,7 +8,7 @@
 
 📫 How to reach me: mille.elfver98@gmail.com
 
-Below are some of my main projects, check them out, some of them have live demo in the description!
+❗ Below are some of my main projects, check them out, some of them have live demo in the description!
 <!--
 **Milles98/Milles98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
