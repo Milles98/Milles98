@@ -2,9 +2,9 @@
 
 ## Hi, my name is Mille Elfver and I'm studying to become a .NET developer 👋
 
-### Keep a lookout, more projects coming continuously!
+### 🔭 Keep a lookout, more projects coming continuously!
 
-🔭 I’m currently working on my portfolio
+🔧 I’m currently working on my portfolio
 
 📫 How to reach me: mille.elfver98@gmail.com
 
