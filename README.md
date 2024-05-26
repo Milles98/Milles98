@@ -4,7 +4,7 @@
 
 ### 🔭 Keep a lookout, more projects coming continuously!
 
-🔧 I’m currently working on my portfolio
+🔧 I’m currently working on a Car Simulator to learn tests
 
 💬 How to reach me: mille.elfver98@gmail.com
 
