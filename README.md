@@ -4,7 +4,7 @@
 
 ### 🔭 Keep a lookout, more projects coming continuously!
 
-🔧 I’m currently working on a Car Simulator to learn how to make tests
+🔧 I’m currently working on a Car Simulator to learn how to make unit and integration tests with MS Test & NUnit
 
 💬 How to reach me: mille.elfver98@gmail.com
 
