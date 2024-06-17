@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Milles98&theme=onedark)](https://github.com/Milles98/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Milles98&theme=onedark)](https://github.com/Milles98)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milles98&show_icons=true&theme=transparent)
 
