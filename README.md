@@ -10,9 +10,7 @@ I'm a passionate .NET developer student from Sweden, focusing on building robust
 ## Contact Me
 
 - Email:     [mille.elfver98@gmail.com](mailto:mille.elfver98@gmail.com)
-- 
 - LinkedIn:  [Mille Elfver](https://www.linkedin.com/in/mille-elfver-4428ab171)
-- 
 - Portfolio: [Mille's Portfolio](https://millesportfolio.azurewebsites.net/)
 
 ## Projects
