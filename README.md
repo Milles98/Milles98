@@ -6,15 +6,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milles98&show_icons=true&theme=transparent)
 
-## 🔭 Keep a lookout, more projects coming continuously!
+### 🔭 Keep a lookout, more projects coming continuously!
 
-### 🔧 I’m currently working on a Retail Manager and Finance Tracker project to learn how to develop in .NET Framework and also learn WPF, MAUI and more.
+🔧 I’m currently working on a Retail Manager and Finance Tracker project to learn how to develop in .NET Framework and also learn WPF, MAUI and more.
 
-### 💬 How to reach me: mille.elfver98@gmail.com
+💬 How to reach me: mille.elfver98@gmail.com
 
-### 💥 Check out my portfolio: https://millesportfolio.azurewebsites.net/
+💥 Check out my portfolio: https://millesportfolio.azurewebsites.net/
 
-### 👇 Below are some of my projects, take a look, most of them have live demo in the readme description!
+👇 Below are some of my projects, take a look, most of them have live demo in the readme description!
 <!--
 **Milles98/Milles98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
