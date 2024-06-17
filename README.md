@@ -1,4 +1,5 @@
-# Hi, my name is Mille Elfver and I'm a .NET student 👋
+# Hi, I'm Mille Elfver 👋
+I'm a passionate .NET developer student from Sweden, focusing on building robust and scalable applications. Currently diving deep into WPF, MAUI, and legacy code development with .NET Framework.
 
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
@@ -6,16 +7,21 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milles98&show_icons=true&theme=transparent)
 
-### 🔭 Keep a lookout, more projects coming continuously!
+## Contact Me
+- Email: [mille.elfver98@gmail.com](mailto:mille.elfver98@gmail.com)
+- LinkedIn: [Mille Elfver](https://www.linkedin.com/in/mille-elfver-4428ab171)
+- Portfolio: [Mille's Portfolio](https://millesportfolio.azurewebsites.net/)
 
-🔧 I’m currently working on a Retail Manager and Finance Tracker project to learn how to develop legacy code in .NET Framework while learning about WPF, MAUI and more.
+<!--
 
 💬 How to reach me: mille.elfver98@gmail.com
 
 💥 Check out my portfolio: https://millesportfolio.azurewebsites.net/
 
-👇 Below are some of my projects, take a look, most of them have live demo in the readme description!
-<!--
+### 🔭 Keep a lookout, more projects coming continuously!
+
+🔧 I’m currently working on a Retail Manager and Finance Tracker project to learn how to develop legacy code in .NET Framework while learning about WPF, MAUI and more.
+
 **Milles98/Milles98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
