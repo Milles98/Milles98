@@ -2,6 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Milles98)](https://github.com/Milles98/github-profile-trophy)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milles98)](https://github.com/Milles98/github-readme-stats)
+
 ## Hi, my name is Mille Elfver and I'm studying to become a .NET developer 👋
 
 ### 🔭 Keep a lookout, more projects coming continuously!
