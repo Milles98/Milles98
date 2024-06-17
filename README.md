@@ -12,6 +12,9 @@ I'm a passionate .NET developer student from Sweden, focusing on building robust
 - LinkedIn:  [Mille Elfver](https://www.linkedin.com/in/mille-elfver-4428ab171)
 - Portfolio: [Mille's Portfolio](https://millesportfolio.azurewebsites.net/)
 
+## Projects
+🔭 Keep a lookout, more projects coming continuously!
+👇 Below are some of my projects, take a look, most of them have live demo in the readme description!
 <!--
 
 💬 How to reach me: mille.elfver98@gmail.com
