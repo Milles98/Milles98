@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Milles98)](https://github.com/Milles98/github-profile-trophy)
+
 ## Hi, my name is Mille Elfver and I'm studying to become a .NET developer 👋
 
 ### 🔭 Keep a lookout, more projects coming continuously!
