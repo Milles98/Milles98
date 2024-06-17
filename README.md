@@ -1,4 +1,4 @@
-# Hi, my name is Mille Elfver and I'm studying to become a .NET developer 👋
+# Hi, my name is Mille Elfver and I'm a .NET student 👋
 
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
