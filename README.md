@@ -8,7 +8,7 @@
 
 ## 🔭 Keep a lookout, more projects coming continuously!
 
-🔧 I’m currently working on a Car Simulator to learn how to make unit and integration tests with MS Test & NUnit
+🔧 I’m currently working on a Retail Manager and Finance Tracker project to learn how to develop in .NET Framework and also learn WPF, MAUI and more.
 
 💬 How to reach me: mille.elfver98@gmail.com
 
