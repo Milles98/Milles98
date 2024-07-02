@@ -20,7 +20,7 @@ I'm a passionate .NET developer student from Stockholm, Sweden. Focusing on buil
 ## Projects
 🔭 Keep a lookout, more projects coming continuously!
 
-👇 Below are some of them, take a look, most of them have live demo in the ReadMe description!
+👇 Below are some of them, take a look, most of them have live demo in the README description!
 <!--
 
 💬 How to reach me: mille.elfver98@gmail.com
