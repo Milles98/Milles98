@@ -1,7 +1,7 @@
 # Hi, I'm Mille Elfver 👋
 I'm a passionate .NET developer student from Stockholm, Sweden. Focusing on building robust and scalable applications. 
 
-🔧 Currently learning about WPF, MAUI, and legacy code development with .NET Framework.
+🔧 Currently learning about WPF, MAUI, .NET Framework, Message Brokers and IoT
 
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
