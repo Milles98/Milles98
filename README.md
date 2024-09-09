@@ -1,6 +1,7 @@
 # 💫 About Me:
 Currently working on .NET, learning WPF, Maui, MVC, REST api, EF core, Visual Basic, Unit and integration tests, HTML, CSS, JavaScript, React, gRPC, WCF, SignalR, Kubernetes, Docker, SQL and more
 
+![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mille-elfver-4428ab171/)
@@ -19,8 +20,6 @@ Currently working on .NET, learning WPF, Maui, MVC, REST api, EF core, Visual Ba
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Milles98&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
