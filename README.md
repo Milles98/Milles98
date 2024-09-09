@@ -5,6 +5,7 @@ Currently working on .NET, learning WPF, Maui, MVC, REST api, EF core, Visual Ba
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mille-elfver-4428ab171/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://millesportfolio.azurewebsites.net/)
 
 
 # 💻 Tech Stack:
