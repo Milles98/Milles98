@@ -21,7 +21,7 @@ Currently working on .NET, learning WPF, Maui, MVC, REST api, EF core, Visual Ba
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milles98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Milles98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Milles98&theme=onedark)](https://github.com/Milles98)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Milles98&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -37,7 +37,7 @@ I'm a passionate .NET developer student from Stockholm, Sweden. Focusing on buil
 
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Milles98&theme=onedark)](https://github.com/Milles98)
+![](https://github-profile-trophy.vercel.app/?username=Milles98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milles98&show_icons=true&theme=transparent)
 
