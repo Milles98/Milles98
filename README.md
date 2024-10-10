@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on .NET, learning WPF, Maui, MVC, REST api, EF core, Visual Basic, Unit and integration tests, HTML, CSS, JavaScript, React, gRPC, WCF, SignalR, Kubernetes, Docker, SQL and more
+Currently studying WPF, Maui, MVC, REST api, Visual Basic.
 
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
