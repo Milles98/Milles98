@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying WPF, Maui, MVC, REST api, Visual Basic.
+Currently learning more about Agile methodologies, Scrum, Jira, Trello, Github Projects, DevOps and VB.NET.
 
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
