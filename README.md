@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a dedicated Junior .NET developer with a strong focus on modern C#, clean architecture, and secure, maintainable code. I recently completed a two-year education with top grades and a 6 month internship at SEB, where I developed new and improved existing code, aswell as worked on migrating CI/CD pipelines from Azure DevOps to GitHub Actions.
+I'm a dedicated .NET developer with a strong focus on modern C#, clean architecture, and secure, maintainable code. I recently completed a two-year education and a 6 month internship at SEB, where I developed new and improved existing code, aswell as worked on migrating CI/CD pipelines from Azure DevOps to GitHub Actions.
 
 I enjoy solving real-world problems with efficient backend solutions and intuitive UIs, often using C#, ASP.NET Core and SQL. 
 
