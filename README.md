@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a dedicated .NET developer with a strong focus on C#. I recently completed a two-year education and a 6 month internship at SEB, where I developed new and improved existing code, aswell as worked on migrating CI/CD pipelines from Azure DevOps to GitHub Actions.
+Hi, I'm a .NET developer. I recently completed a two-year education and a 6 month internship at SEB, where I developed new and improved existing code, aswell as worked on migrating CI/CD pipelines from Azure DevOps to GitHub Actions.
 
 ![](https://komarev.com/ghpvc/?username=Milles98&color=blueviolet)
 
